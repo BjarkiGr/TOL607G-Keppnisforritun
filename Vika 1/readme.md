@@ -19,15 +19,14 @@ Fyrsta heimaverkefnið var gefið út.
 | Baby Bites | babybites | 1 |
 | Guess the Number | guess | 2 |
 
-## Mínar lausnir
-### unnið í Python
+## Mínar lausnir, unnið í Python
 
 >hello.py
 ```
 print("Hello World!")
 ```
 
-sort.py
+>sort.py
 ```
 line = input()
 a, b = map(int, line.split())
@@ -38,7 +37,7 @@ else:
     print(b, a)
 ```
 
-quadrant.py
+>quadrant.py
 ```
 line1 = input()
 line2 = input()
@@ -57,7 +56,7 @@ else:
         
 ```
 
-cold.py
+>cold.py
 ```
 #line1 = input()
 #line2 = input()
@@ -72,7 +71,7 @@ for i in range(n):
 print(count)
 ```
 
-babybites.py
+>babybites.py
 ```
 line1 = input()
 line2 = input()
@@ -92,7 +91,7 @@ else:
     print("makes sense")
 ```
 
-guess.py
+>guess.py
 ```
 
 
