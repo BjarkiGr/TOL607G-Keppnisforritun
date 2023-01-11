@@ -20,8 +20,9 @@ Fyrsta heimaverkefnið var gefið út.
 | Guess the Number | guess | 2 |
 
 ## Mínar lausnir
+### unnið í Python
 
-hello.py
+>hello.py
 ```
 print("Hello World!")
 ```
