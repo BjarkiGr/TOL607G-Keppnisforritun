@@ -7,9 +7,6 @@ Fyrsta heimaverkefnið var gefið út.
 
 # Dæmablað 1
 
-| Dæmi | ID | stig |
-| Hello World | hello | 1 |
-
 | Dæmi | ID | Stig |
 | ----------- | ----------- | ----------- |
 | Hello World | hello | 1 |
@@ -25,7 +22,7 @@ Fyrsta heimaverkefnið var gefið út.
 ```
 print("Hello World!")
 ```
-
+---
 >sort.py
 ```
 line = input()
@@ -36,7 +33,7 @@ if(a < b):
 else: 
     print(b, a)
 ```
-
+---
 >quadrant.py
 ```
 line1 = input()
@@ -55,7 +52,7 @@ else:
         print(3)
         
 ```
-
+---
 >cold.py
 ```
 #line1 = input()
@@ -70,7 +67,7 @@ for i in range(n):
 
 print(count)
 ```
-
+---
 >babybites.py
 ```
 line1 = input()
