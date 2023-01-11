@@ -1,14 +1,19 @@
-
-firstGuess = 500
-print(firstGuess)
+low = 0
+high = 1000
+guess = (low + high) // 2
+print(guess)
 
 for i in range(1, 11):
     answer = input()
     if(answer == "lower"):
-        guess = guess / 2
-        print(round(guess))
+        high = guess
+        guess = (low + high) // 2
+        print(guess)
+
     elif(answer == "higher"):
-        guess = guess * 1.5
-        print(round(guess))
-    else:
+        low = guess
+        guess = (low + high + 1) // 2
+        print(guess)
+
+    elif(answer == "correct"):
         break
