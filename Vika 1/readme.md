@@ -1,5 +1,4 @@
 # Keppnisforritun - Vika 1
-## Bjarki Grettisson
 
 Í þessari viku var farið yfir hvernig námskeiðinu verður háttað, og aðeins skoðað open.kattis.com\
 Fyrsta heimaverkefnið var gefið út.
