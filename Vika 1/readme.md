@@ -10,9 +10,9 @@ Fyrsta heimaverkefnið var gefið út.
 | Dæmi | ID | stig |
 | Hello World | hello | 1 |
 
-| Syntax | Description |
+| Syntax | Description | test |
 | ----------- | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header | Title | Test |
+| Paragraph | Text | Test |
 
 tets
