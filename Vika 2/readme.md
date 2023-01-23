@@ -1,2 +1,0 @@
-# Keppnisforritun - Vika 2
-
